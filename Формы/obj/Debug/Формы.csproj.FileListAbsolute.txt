@@ -1,0 +1,8 @@
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\bin\Debug\Формы.exe.config
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\bin\Debug\Формы.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\bin\Debug\Формы.pdb
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\obj\Debug\Формы.csproj.AssemblyReference.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\obj\Debug\Формы.csproj.SuggestedBindingRedirects.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\obj\Debug\Формы.csproj.CoreCompileInputs.cache
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\obj\Debug\Формы.exe
+C:\Users\Святослав\Desktop\Политех\алг и программирование\2 сем\Новая папка\Формы\obj\Debug\Формы.pdb
